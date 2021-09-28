@@ -10,6 +10,6 @@
         return $str;
     }
 
-    // Example use - generate a randome code 6 characters in length
+    // Example use - generate a random code 6 characters in length
     echo RandomCode(6);
 ?>
